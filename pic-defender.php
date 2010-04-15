@@ -4,12 +4,9 @@
 Plugin Name:Pic Defender
 Plugin URI: http://www.forexp.net/wordpress-plugins/plugins/pic-defender/
 Description: Defends your pictures, images from source stealing in softway 
-Version: 1.2
-License: GPL
+Version: 1.0
 Author: jwall
 Author URI: http://www.forexp.net
-
-Contact mail: jwall149@gmail.com
 */				
 
 class jwall_pic_defender {
