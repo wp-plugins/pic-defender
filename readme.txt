@@ -4,7 +4,7 @@ Donate link: http://www.forexp.net/
 Tags: picture, image, hide, defend, show
 Requires at least: 2.5.0
 Tested up to: 2.9.2
-Stable tag: 1.0
+Stable tag: 1.0.1
 
 Simple, but effective way to hide your images away from stealing (without edit .htaccess or httpd.conf).
 

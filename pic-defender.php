@@ -4,7 +4,7 @@
 Plugin Name:Pic Defender
 Plugin URI: http://www.forexp.net/wordpress-plugins/plugins/pic-defender/
 Description: Defends your pictures, images from source stealing in softway 
-Version: 1.0
+Version: 1.0.1
 Author: jwall
 Author URI: http://www.forexp.net
 */				
@@ -66,7 +66,7 @@ class jwall_pic_defender {
 ?>
     <form action="<?php echo $_SERVER['REQUEST_URI']?>" method="POST">
 		Allow these domains: <input type="text" name="domains" value="<?php echo $alldomains?>"style="width:50em">
-		<div>Access from these domains are allowed, you can enter multiple domain separate by a comma.</div>		
+		<div>Access from these domains (or subdomain) are allowed, you can enter multiple domain separate by a comma.</div>		
 		<div>Exp: forexp.net, vysajp.org</div>				
 		<br/>
 		<input type="checkbox" value="1" name="fetch" <?php echo $checked; ?> >&nbsp;Fetch through this server
